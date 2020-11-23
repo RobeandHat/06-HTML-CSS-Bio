@@ -1,2 +1,2 @@
 # Activities
-Activities/Practice for UNC Bootcamp
+Student Bio for Module 1 with HTML and CSS elements
